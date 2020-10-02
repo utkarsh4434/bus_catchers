@@ -1,5 +1,5 @@
 =============
-bus_catchers 
+Bus_Catchers 
 =============
 
 **bus_catchers** is a experimental web scraping suite to extract schedule data from the bus websites of Bolt Bus, Greyhound, Peterpan, Megabus, Amtrak, and more.  
@@ -14,7 +14,7 @@ Dependencies
 
 1) **Selenium** 
 
-A framework for controlling your browser, can be downloaded at: https://pypi.python.org/pypi/selenium
+A framework for controlling your browser, can be downloaded at: https://pypi.python.org/pypi/selenium .
 
 2) **Scrapy** 
 
